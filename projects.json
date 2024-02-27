@@ -30,5 +30,13 @@
         "year": "2023_WS",
         "info": "Laser Spiders! Because why not?",
         "status": "1"
+    },
+    {
+        "title": "EscapeGame",
+        "folder": "AblingerP190210_EscapeGame",
+        "author": "Ablinger Paul",
+        "year": "2023_WS",
+        "info": "Actually a Jump and Run game",
+        "status": "1"
     }
 ]
