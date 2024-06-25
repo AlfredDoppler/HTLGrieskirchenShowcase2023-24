@@ -14,11 +14,19 @@ The projects in this repository are for demonstration purposes only.
 All copyrights and trademarks belong to their rightful owner.
 If there is any problem with any demo just leave a short message.
 
+
+
 Many thanks to my student Elias Lexl for the creation of this site.
 Additional thanks go to Rene Buchmayr and Alexander Melem for providing the
 first solutions of how to run the GIT-repository Web GL games directly in the browser.
 
 @students:
+You mnust change the Compression Format in the Unity player settings to "Disabled" before creating the WebGL Build:
+
+![CompressionFormat](https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2023-24/assets/19311233/6bdf692d-2cf0-4f22-babb-b08d31e3d4a4)
+
+
+
 After uploading your project to the `projects-folder` update the `projects.json`.
 (Maybe uploading a Development build with WebGL is a problem)
 
