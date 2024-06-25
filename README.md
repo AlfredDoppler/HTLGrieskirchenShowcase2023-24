@@ -28,8 +28,6 @@ You must enable the Decompression Fallback in the Unity Player settings before c
 
 
 After uploading your project to the `projects-folder` update the `projects.json`.
-(Maybe uploading a Development build with WebGL is a problem)
-
 
 ## `projects.json` properties
 ```
@@ -40,7 +38,7 @@ After uploading your project to the `projects-folder` update the `projects.json`
         "author": "my name",
         "year": "folder name of the year",
         "info": "info about your project",
-        "status": "0"
+        "status": 0
     },
     ...
 ]
