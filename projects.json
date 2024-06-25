@@ -1,0 +1,42 @@
+[
+    {
+        "title": "project title",
+        "folder": "name of the folder",
+        "author": "my name",
+        "year": "folder name of the year",
+        "info": "info about your project",
+        "status": "0"
+    },
+    {
+        "title": "Tower Defense Game",
+        "folder": "KreuzhuberJ190293_TowerDefenseGame",
+        "author": "Kreuzhuber Jonas",
+        "year": "2023_WS",
+        "info": "no info",
+        "status": "1"
+    },
+    {
+        "title": "Tetris",
+        "folder": "NeuwirthF190198_Tetris",
+        "author": "Neuwirth Fabian",
+        "year": "2023_WS",
+        "info": "Some kind of a copy of Tetris",
+        "status": "1"
+    },
+    {
+        "title": "CalLuna",
+        "folder": "RoitingerD190181_CalLuna",
+        "author": "Roitinger David",
+        "year": "2023_WS",
+        "info": "Laser Spiders! Because why not?",
+        "status": "1"
+    },
+    {
+        "title": "EscapeGame",
+        "folder": "AblingerP190210_EscapeGame",
+        "author": "Ablinger Paul",
+        "year": "2023_WS",
+        "info": "Actually a Jump and Run game",
+        "status": "1"
+    }
+]
