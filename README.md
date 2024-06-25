@@ -21,7 +21,7 @@ Additional thanks go to Rene Buchmayr and Alexander Melem for providing the
 first solutions of how to run the GIT-repository Web GL games directly in the browser.
 
 @students:
-You mnust change the Compression Format in the Unity player settings to "Disabled" before creating the WebGL Build:
+You must change the Compression Format in the Unity Player settings to "Disabled" before creating the WebGL Build:
 
 ![CompressionFormat](https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2023-24/assets/19311233/6bdf692d-2cf0-4f22-babb-b08d31e3d4a4)
 
