@@ -22,6 +22,7 @@ first solutions of how to run the GIT-repository Web GL games directly in the br
 
 @students:
 You must enable the Decompression Fallback in the Unity Player settings before creating the WebGL Build:
+
 ![CompressionFormat](https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2023-24/assets/19311233/4a6dc6a7-e8ab-48a9-b2dc-d7f980fe5e9c)
 
 
