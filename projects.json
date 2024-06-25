@@ -1,42 +1,130 @@
-[
-    {
-        "title": "project title",
-        "folder": "name of the folder",
-        "author": "my name",
-        "year": "folder name of the year",
-        "info": "info about your project",
-        "status": "0"
-    },
-    {
-        "title": "Tower Defense Game",
-        "folder": "KreuzhuberJ190293_TowerDefenseGame",
-        "author": "Kreuzhuber Jonas",
-        "year": "2023_WS",
-        "info": "no info",
-        "status": "1"
-    },
-    {
-        "title": "Tetris",
-        "folder": "NeuwirthF190198_Tetris",
-        "author": "Neuwirth Fabian",
-        "year": "2023_WS",
-        "info": "Some kind of a copy of Tetris",
-        "status": "1"
-    },
-    {
-        "title": "CalLuna",
-        "folder": "RoitingerD190181_CalLuna",
-        "author": "Roitinger David",
-        "year": "2023_WS",
-        "info": "Laser Spiders! Because why not?",
-        "status": "1"
-    },
-    {
-        "title": "EscapeGame",
-        "folder": "AblingerP190210_EscapeGame",
-        "author": "Ablinger Paul",
-        "year": "2023_WS",
-        "info": "Actually a Jump and Run game",
-        "status": "1"
-    }
+[   
+ {
+    "title": "EscapeGame",
+    "folder": "AblingerP190210_EscapeGame",
+    "author": "Ablinger",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "HoleInTheWall",
+    "folder": "BergerF190284_HoleInTheWall",
+    "author": "Berger",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "SkibidiToiletSimulator",
+    "folder": "DekkerF190232_SkibidiToiletSimulator",
+    "author": "Dekker",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "UnityRpg",
+    "folder": "Eder_UnityRpg",
+    "author": "Eder",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "OperationDuck",
+    "folder": "GierlingerJ190258_OperationDuck",
+    "author": "Gierlinger",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "FlaskClicker",
+    "folder": "GruendlingerM190208_FlaskClicker",
+    "author": "Gruendlinger",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "TowerDefence",
+    "folder": "HintereggerJ190292_TowerDefence",
+    "author": "Hinteregger",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "JumpAndRun",
+    "folder": "JumpAndRun",
+    "author": "",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+   {
+    "title": "TowerDefenseGame",
+    "folder": "KreuzhuberJ190293_TowerDefenseGame",
+    "author": "Kreuzhuber",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "Tetris",
+    "folder": "NeuwirthF190198_Tetris",
+    "author": "Neuwirth",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "Abyssal_Amaze",",
+    "folder": "ReitboeckT190140_Abyssal_Amaze",
+    "author": "Reitboeck",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "CalLuna",
+    "folder": "RoitingerD190181_CalLuna",
+    "author": "Roitinger",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "VillainsDoom",
+    "folder": "VillainsDoom_VolkanÖzdemir",
+    "author": "VolkanÖzdemir",
+    "year": "2023_WS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "Eder_FightingGame",
+    "folder": "Eder_FightingGame",
+    "author": "Eder",
+    "year": "2024_SS",
+    "info": " ",
+    "status": 1
+  },
+  {
+    "title": "Hinteregger_Racinggame",
+    "folder": "RacingGame_Hinteregger",
+    "author": "Hinteregger",
+    "year": "2024_SS",
+    "info": " ",
+    "status": 0
+  },
+   {
+    "title": "Towerdefense_MayrJ190171",
+    "folder": "Towerdefense_MayrJ190171",
+    "author": "Mayr",
+    "year": "2024_SS",
+    "info": " ",
+    "status": 0
+  }
 ]
