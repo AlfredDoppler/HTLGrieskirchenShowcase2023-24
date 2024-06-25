@@ -104,14 +104,6 @@
     "status": 1
   },
   {
-    "title": "",
-    "folder": "",
-    "author": "",
-    "year": "2023_WS",
-    "info": " ",
-    "status": 1
-  }, 
-  {
     "title": "Eder_FightingGame",
     "folder": "Eder_FightingGame",
     "author": "Eder",
@@ -119,5 +111,4 @@
     "info": " ",
     "status": 1
   }
- 
 ]
