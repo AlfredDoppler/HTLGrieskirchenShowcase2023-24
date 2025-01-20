@@ -80,7 +80,7 @@
     "status": 1
   },
   {
-    "title": "Abyssal_Amaze",",
+    "title": "Abyssal_Amaze",
     "folder": "ReitboeckT190140_Abyssal_Amaze",
     "author": "Reitboeck",
     "year": "2023_WS",
@@ -103,10 +103,26 @@
     "info": " ",
     "status": 1
   },
+ {
+    "title": "Ablinger_Drifty",
+    "folder": "AblingerP190210_Drifty",
+    "author": "Ablinger",
+    "year": "2024_SS",
+    "info": " ",
+    "status": 1
+  },
   {
     "title": "Eder_FightingGame",
     "folder": "Eder_FightingGame",
     "author": "Eder",
+    "year": "2024_SS",
+    "info": " ",
+    "status": 1
+  },
+ {
+    "title": "Leuchtenmueller_Game",
+    "folder": "LeuchtenmuellerM1981",
+    "author": "Leuchtenmueller",
     "year": "2024_SS",
     "info": " ",
     "status": 1
@@ -120,11 +136,19 @@
     "status": 0
   },
    {
-    "title": "Towerdefense_MayrJ190171",
+    "title": "Towerdefense_Mayr",
     "folder": "Towerdefense_MayrJ190171",
     "author": "Mayr",
     "year": "2024_SS",
     "info": " ",
     "status": 0
+  },
+ {
+    "title": "Wintersteiger_PotatoRoll",
+    "folder": "WintersteigerJ190225_PotatoRoll",
+    "author": "Wintersteiger",
+    "year": "2024_SS",
+    "info": " ",
+    "status": 1
   }
 ]
